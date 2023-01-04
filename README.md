@@ -7,7 +7,9 @@ rules of the game
 
 
 
-### main menu![image](https://user-images.githubusercontent.com/102177769/210634301-2a755f23-31c5-4eb5-917a-5ce533008220.png)
+### main menu
+
+![image](https://user-images.githubusercontent.com/102177769/210634301-2a755f23-31c5-4eb5-917a-5ce533008220.png)
 
 
 
